@@ -1,0 +1,28 @@
+// vscode settings, mostly from Mark Hopkins
+{
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "window.zoomLevel": 1,
+    "vim.useSystemClipboard": true,
+    "files.eol": "\n",   
+    "workbench.colorTheme": "Default High Contrast",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontSize": 13,
+    "terminal.integrated.fontSize": 13,
+    "workbench.startupEditor": "none",
+    "terminal.integrated.inheritEnv": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.sideBar.location": "right",
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.activityBar.location": "hidden",
+    //"python.defaultInterpreterPath": "/Users/markhopkins/anaconda3/envs/mt/bin/python",
+    "notebook.compactView": false,
+    "workbench.colorCustomizations": {
+        "textPreformat.foreground": "#69cf44ec",
+        "textPreformat.background": "#000000a9"
+    },
+    "notebook.markup.fontSize": 14,
+    //"window.zoomLevel": 1
+}
