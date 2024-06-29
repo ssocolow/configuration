@@ -14,7 +14,7 @@
     "[python]": {
         "editor.formatOnType": true
     },
-    "workbench.sideBar.location": "right",
+    "workbench.sideBar.location": "left",
     "git.openRepositoryInParentFolders": "never",
     "workbench.activityBar.location": "hidden",
     //"python.defaultInterpreterPath": "/Users/markhopkins/anaconda3/envs/mt/bin/python",
